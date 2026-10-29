@@ -1,0 +1,6 @@
+{
+  "name": "Prove You Built It",
+  "description": "AI project interview coach helping students demonstrate genuine code understanding for placements and viva assessments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
